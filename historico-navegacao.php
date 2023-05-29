@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Histórico de Navegação WP
  * Description: Plugin para rastrear o histórico de navegação.
- * Version: 1.0
+ * Version: 1.0.1
  * Author: Bruno Albim
  * Author URI: https://bruno.art.br
  */
